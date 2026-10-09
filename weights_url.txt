@@ -1,0 +1,1 @@
+https://github.com/mid2505/pcb-defect-inspector/releases/download/weights
